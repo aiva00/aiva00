@@ -40,9 +40,6 @@ I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI
 ✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
 
 🔭I've worked on various ML and AI related projects, currently working on Multi-Agent Reinforcement Learning, and I am open for collaboration to any relevant project in the field, please feel free to contact me.
-
-This project is a result/ is connected to previous work. The webscraper in order to get our data, and the analysis and modelling of those data (link to both github projects.) 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
