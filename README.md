@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aiva00/aiva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
-
-
-<!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
+![Banner Image](https://github.com/aiva00/aiva00/blob/main/assets/github_banner.png)
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/aiva00"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
@@ -31,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">     
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00&label=Visitors%3A&countColor=%2337d67a" /></a>    
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
 </p>
 	    
