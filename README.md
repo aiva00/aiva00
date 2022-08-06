@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
 
 <p align="center">
-  <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
-  <a href= "mailto:aivazidis00@gmail.com"><img height="37" src="https://github.com/papaemman/papaemman/blob/main/assets/email.png"></a>
-  <a href= "https://www.linkedin.com/in/aiva00/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
-  <a href= "https://github.com/aiva00"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"></a> 
-  <a href= "https://medium.com/@papaemman.pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/medium_icon.png"></a>
-  <a href= "https://dev.to/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"></a>
+  <a href= "https://www.linkedin.com/in/aiva00"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
+  <a href= "mailto:aivazidis00@gmail.com"><img height="37" src="https://github.com/aiva00/aiva00/blob/main/assets/email.png"></a>
+  <a href= "https://www.linkedin.com/in/aiva00/"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/linkedin.png"></a>
+  <a href= "https://github.com/aiva00"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/github.svg"></a> 
+  <a href= "https://medium.com/@aivazidis00"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/medium_icon.png"></a>
+  <a href= "https://dev.to/aiva00"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/dev.png"></a>
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ## Chris Aivazidis - @aiva00
 - 📊 Data Scientist
 - 📐 Mathematician
-- 🧠 Machine Learning / Deep Learning Engineer
-- 👨‍💻 Artificial Intelligence Researcher
+- 🧠 Artificial Intelligence Researcher
+- 💻 Machine Learning / Deep Learning Engineer
 
 ```python
 #!/usr/bin/python
@@ -52,20 +52,20 @@ class Me:
     A class to represent a person. (Actually just for me)
     """
     def __init__(self):
-        self.name = "Panagiotis Papaemmanouil"
+        self.name = "Chris Aivazidis"
         self.pronouns = "he/him"
 	self.role1 = "Data Scientist"
-	self.role2 = "Technology Entrepreneur"
+	self.role2 = "ML and AI Researcher"
 	self.bsc_studies = ("Mathematics", "Mathematics Dept.", "Aristotle University of Thessaloniki")
-	self.msc_studies = ("Data and Web Science", "Computer Science Dept.", "Aristotle University of Thessaloniki")
-        self.language_spoken = ["el_GR", "en_US"]
+	self.msc_studies = ("In the process of enrolling in a AI / ML related program")
+        self.language_spoken = ["el_GR", "en_US", "es_ES"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
-	self.values = ["Respect", "Integrity", "Trust", "Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
+	self.values = ["Learning", "Research", "Passion", "Quality", "Teamwork", "Progress", "Growth", "Innovation", "Trust", "Respect"]
 				
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Media!")
+        print("Thanks for dropping by, hope you find some of my work interesting. \n I'll be happy to connect with you on Social Platforms!")
 
 
 me = Me()
@@ -77,16 +77,20 @@ me.say_hi()
 ## 🛠️ My favorite tools
 
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages | Databases
 
 <p>
-    <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
-    <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apapaemman+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
+    <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="https://nodejs.dev/"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
+    <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=r&logoColor=white"></a>
+    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+	
 </p>
 
-### 🧰 Frameworks, libraries and DB
+### 🧰 Frameworks, libraries
 
 <p>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>
@@ -94,6 +98,8 @@ me.say_hi()
     <a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-blue.svg?logo=SciPy&logoColor=white"></a>
     <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=pytorch&logoColor=white"></a>
+    <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white"></a>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://xgboost.readthedocs.io/en/latest/"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337ab7.svg?logo=xgboost&logoColor=white"></a>
     <a href="https://lightgbm.readthedocs.io/en/latest/"><img alt="lightgbm" src="https://img.shields.io/badge/LightGBM-2980b9.svg?logo=xgboost&logoColor=333333"></a>   
@@ -105,8 +111,6 @@ me.say_hi()
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="https://databricks.com/"><img alt="Databricks" src ="https://img.shields.io/badge/Databricks-fc3424.svg?logo=databricks&logoColor=white"></a>
-    <a href="https://fastapi.tiangolo.com/"><img alt="Databricks" src ="https://img.shields.io/badge/FastAPI-black.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
 
@@ -120,15 +124,11 @@ me.say_hi()
     <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=docker&logoColor=white"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="https://www.wolfram.com/mathematica/"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
     <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-green.svg?logo=overleaf&logoColor=white"></a>
    
 </p>
 
