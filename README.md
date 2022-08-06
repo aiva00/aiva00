@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ![Banner Image](https://github.com/aiva00/aiva00/blob/main/assets/github_banner.png)
 
 <p align="center">
@@ -34,10 +32,16 @@ Here are some ideas to get you started:
 
 ## Chris Aivazidis - @aiva00
 Hey there 👋  
-I'm Chris, a passionate Data Scientist, actively researching ML and AI. I'm currently finishing my Mathematics BSc while doing research and projects in ML that solve real world problems.  
-💯 I created a webapp, powered by ML algorithms and Statistics Theory, that that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: 
+I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI**. I'm currently finishing my **Mathematics** **BSc** while doing research and projects in ML that solve real world problems.  
+
+💯 I created a webapp, powered by ML algorithms and Statistics Theory, that that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp
+![](https://github.com/aiva00/aiva00/blob/main/assets/webapp_gif.gif)
+
 ✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
+
 🔭I've worked on various ML and AI related projects, currently working on Multi-Agent Reinforcement Learning, and I am open for collaboration to any relevant project in the field, please feel free to contact me.
+
+This project is a result/ is connected to previous work. The webscraper in order to get our data, and the analysis and modelling of those data (link to both github projects.) 
 
 ```python
 #!/usr/bin/python
