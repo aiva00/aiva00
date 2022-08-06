@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Hey there 👋  
 I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI**. I'm currently finishing my **Mathematics** **BSc** while doing research and projects in ML that solve real world problems.  
 
-💯 I created a webapp, powered by ML algorithms and Statistics Theory, that that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp  
+💯 I created a ![webapp](https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp), powered by ML algorithms and Statistics Theory, that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp  
 ![](https://github.com/aiva00/aiva00/blob/main/assets/webapp_gif.gif)
 
 ✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
