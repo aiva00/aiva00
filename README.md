@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aiva00/aiva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
-
-
-<!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
+![Banner Image](https://github.com/aiva00/aiva00/blob/main/assets/github_banner.png)
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/aiva00"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
@@ -31,17 +24,24 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">     
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00&label=Visitors%3A&countColor=%2337d67a" /></a>    
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
 </p>
 	    
 <br>
 
 ## Chris Aivazidis - @aiva00
-- 📊 Data Scientist
-- 📐 Mathematician
-- 🧠 Artificial Intelligence Researcher
-- 💻 Machine Learning / Deep Learning Engineer
+Hey there 👋  
+I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI**. I'm currently finishing my **Mathematics** **BSc** while doing research and projects in ML that solve real world problems.  
+
+💯 I created a webapp, powered by ML algorithms and Statistics Theory, that that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp
+![](https://github.com/aiva00/aiva00/blob/main/assets/webapp_gif.gif)
+
+✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
+
+🔭I've worked on various ML and AI related projects, currently working on Multi-Agent Reinforcement Learning, and I am open for collaboration to any relevant project in the field, please feel free to contact me.
+
+This project is a result/ is connected to previous work. The webscraper in order to get our data, and the analysis and modelling of those data (link to both github projects.) 
 
 ```python
 #!/usr/bin/python
@@ -54,8 +54,9 @@ class Me:
     def __init__(self):
         self.name = "Chris Aivazidis"
         self.pronouns = "he/him"
-	self.role1 = "Data Scientist"
-	self.role2 = "ML and AI Researcher"
+	self.role1 = "📊 Data Scientist"
+	self.role2 = "🧠 ML and AI Researcher"
+	self.role3 = "📐 Mathematician"
 	self.bsc_studies = ("Mathematics", "Mathematics Dept.", "Aristotle University of Thessaloniki")
 	self.msc_studies = ("In the process of enrolling in a AI / ML related program")
         self.language_spoken = ["el_GR", "en_US", "es_ES"]
