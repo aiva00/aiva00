@@ -1,17 +1,3 @@
-<!--
-**aiva00/aiva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Banner Image](https://github.com/aiva00/aiva00/blob/main/assets/github_banner.png)
 
 <p align="center">
@@ -40,6 +26,7 @@ I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI
 ✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
 
 🔭I've worked on various ML and AI related projects, currently working on Multi-Agent Reinforcement Learning, and I am open for collaboration to any relevant project in the field, please feel free to contact me.
+<!--
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -69,7 +56,7 @@ class Me:
 me = Me()
 me.say_hi()
 ```
-
+-->
 <br>
 
 ## 🛠️ My favorite tools
@@ -136,17 +123,17 @@ me.say_hi()
 ## 📘 Selected Open Source Projects
 
 <p align="left">
-  <a href="https://github.com/papaemman/AutoML-tools-exploration"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=AutoML-tools-exploration&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
-  <a href="https://github.com/papaemman/multimedia_db"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=multimedia_db&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="multimedia_db"></a>
-  <a href="https://github.com/papaemman/Mining-of-Massive-Datasets-AUTh"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=Mining-of-Massive-Datasets-AUTh&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>		
-  <a href="https://github.com/papaemman/decentralized-technologies"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=decentralized-technologies&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>			
+  <a href="https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Thess-Housing-Market-AuTh-WebApp&show_owner=true" alt="rental-housing-analysis-app"></a>	
+  <a href="https://github.com/aiva00/Multi-Agent-RL-Soccer-Robots-in-Webots"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Multi-Agent-RL-Soccer-Robots-in-Webots&show_owner=true" alt="multi-robots-soccer"></a>
+  <a href="https://github.com/aiva00/Cifar10-NN-CNN-SVM-AE-VAE"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Cifar10-NN-CNN-SVM-AE-VAE&show_owner=true" alt="ML-Algorithms"></a>		
+  <a href="https://github.com/aiva00/Rental-Listings-Scraper"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Rental-Listings-Scraper&show_owner=true" alt="listings-scraper"></a>			
 </p>
 	
 <p align="left">
   <a href="https://github.com/aiva00?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-182447?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-
+<!-- Github stats fix
 <br>
 
 <details>
@@ -160,5 +147,4 @@ me.say_hi()
 
 
 <br>
-
-<!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
+-->
