@@ -8,9 +8,11 @@
   <a href= "https://medium.com/@aivazidis00"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/medium_icon.png"></a>
   <a href= "https://dev.to/aiva00"><img height="40" src="https://github.com/aiva00/aiva00/blob/main/assets/dev.png"></a>
 </p>
-
+<!-- old visitor count
+"https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00&label=Visitors%3A&countColor=%2337d67a"
+-->
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faiva00%2Faiva00&label=Visitors%3A&countColor=%2337d67a" /></a>    
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aiva00.aiva00&color=00df00">    
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
 </p>
 	    
