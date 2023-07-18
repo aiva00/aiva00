@@ -22,10 +22,10 @@
 Hey there 👋  
 I'm Chris, a passionate **Data Scientist**, actively researching **ML** and **AI**. I'm currently finishing my **Mathematics** **BSc** while doing research and projects in ML that solve real world problems.  
 
+✍️ I wrote a research paper published on ECMLPKDD titled "On the Adaptability of Attention-Based Interpretability in Different Transformer Architectures for Multi-Class Classification Tasks"
+
 💯 I created a [webapp](https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp), powered by ML algorithms and Statistics Theory, that finds and ranks the best listings of rental properties to help students and future students of the university find a proper/affordable home. This project's functionality was extended to include the general housing market of Thessaloniki and comes as a service of the Aristotle university of Thessaloniki. You can check it out here: https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp  
 ![](https://github.com/aiva00/aiva00/blob/main/assets/webapp_gif.gif)
-
-✍️ Currently in the process of producing amazing DS, AI and ML content such as tutorials, insights and more with articles on Medium, LinkedIn posts and youtube videos. Make sure to follow to keep up to date.
 
 🔭I've worked on various ML and AI related projects, currently working on Multi-Agent Reinforcement Learning, and I am open for collaboration to any relevant project in the field, please feel free to contact me.
 <!--
@@ -125,10 +125,10 @@ me.say_hi()
 ## 📘 Selected Open Source Projects
 
 <p align="left">
+  <a href="https://github.com/intelligence-csd-auth-gr/Optimus-Transformers-Interpretability/tree/multiclass"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligence-csd-auth-gr&repo=Optimus-Transformers-Interpretability&show_owner=true" alt="Optimus-Transformers-Interpretability"></a>
   <a href="https://github.com/aiva00/Thess-Housing-Market-AuTh-WebApp"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Thess-Housing-Market-AuTh-WebApp&show_owner=true" alt="rental-housing-analysis-app"></a>	
   <a href="https://github.com/aiva00/Multi-Agent-RL-Soccer-Robots-in-Webots"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Multi-Agent-RL-Soccer-Robots-in-Webots&show_owner=true" alt="multi-robots-soccer"></a>
-  <a href="https://github.com/aiva00/Cifar10-NN-CNN-SVM-AE-VAE"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Cifar10-NN-CNN-SVM-AE-VAE&show_owner=true" alt="ML-Algorithms"></a>		
-  <a href="https://github.com/aiva00/Rental-Listings-Scraper"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Rental-Listings-Scraper&show_owner=true" alt="listings-scraper"></a>			
+  <a href="https://github.com/aiva00/Cifar10-NN-CNN-SVM-AE-VAE"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aiva00&repo=Cifar10-NN-CNN-SVM-AE-VAE&show_owner=true" alt="ML-Algorithms"></a>					
 </p>
 	
 <p align="left">
